@@ -4,4 +4,4 @@ This is a simple countdown timer that calculates time remaining until a given da
 
 # Screenshots
 
-![Alt text](/output/output1.jpg?raw=true "Simple Countdown Timer")
+![Alt text](/output/output1.png?raw=true "Simple Countdown Timer")
