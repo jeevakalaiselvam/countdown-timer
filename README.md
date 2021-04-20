@@ -6,5 +6,5 @@ This is a simple countdown timer that calculates time remaining until a given da
 
 ![Alt text](/output/output1.png?raw=true "Simple Countdown Timer")
 
-#Live Link
+# Live Link
 Check the live verion here <https://jeevakalaiselvam.github.io/countdown-timer/>
