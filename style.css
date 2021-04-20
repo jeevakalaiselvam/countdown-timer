@@ -5,7 +5,37 @@
 }
 
 body{
+    background-image: url("./background.jpeg");
     margin: 0;
+    justify-content: center;
+    display:flex;
+    flex-direction: column;
+    background-size:cover;
+    align-items: center;
+    background-position: center center;
+    min-height: 100vh;
     font-family: "Rubik",sans-serif;
 }
 
+.countdown-container{
+    display: flex;
+}
+
+h1{
+    font-size: 4rem;
+    margin-top: -10rem;
+}
+
+.big-text{
+    font-size: 6rem;
+    line-height: 1;
+    margin: 0 2rem;
+}
+
+.countdown-element{
+    text-align: center;
+}
+
+.countdown-element span{
+    font-size: 1.5rem;
+}
